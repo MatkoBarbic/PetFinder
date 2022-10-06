@@ -8,4 +8,5 @@ The competition was hosted by PetFinder.my, a Malaysia’s leading animal welfar
 The dataset consists of 9912 annotated images. The best model tried ended up being EfficientB0 with root mean squared error of 21.3283. Since this was my first AI project I am pleased with the obtained results.
 
 Link to Kaggle profile: "https://www.kaggle.com/matkobarbic"
-Links to EfficientNetB0 notebook: "https://www.kaggle.com/code/matkobarbic/pawpularity-effnet"
+
+Link to EfficientNetB0 notebook: "https://www.kaggle.com/code/matkobarbic/pawpularity-effnet"
